@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;">
+    <g id="battery" transform="matrix(1,0,0,1,-259.369,-300)">
+        <g transform="matrix(3.51717,0,0,3.51717,-3327.61,-784.243)">
+            <text x="1164.16px" y="396.237px" style="font-family:'EudoxusSans-Bold', 'Eudoxus Sans';font-weight:700;font-size:72px;fill:white;">jude<tspan x="1316.73px " y="396.237px ">x</tspan></text>
+        </g>
+        <g transform="matrix(13.9882,0,0,13.9882,334.717,372.142)">
+            <path d="M17,1L21,5L17,9" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2px;"/>
+            <path d="M3,11L3,9C3,6.806 4.806,5 7,5L20.285,5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2px;stroke-linejoin:round;"/>
+            <path d="M7,23L3,19L7,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2px;"/>
+            <path d="M21,13L21,15C21,17.194 19.194,19 17,19L3.715,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+    </g>
+</svg>
